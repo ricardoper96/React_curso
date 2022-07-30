@@ -1,0 +1,21 @@
+.header-app{
+    background-color: #044c91;
+    color: #e8ebef;
+    padding: 10px;
+
+}
+.list-app{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    list-style: none;
+}
+.item{
+    font-size: 30px;
+    transition: color linear 0.3s;
+
+}
+.item:hover{
+    color: black;
+}

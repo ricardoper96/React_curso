@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@300&family=Mukta:wght@300&family=PT+Sans&display=swap');
+.card{
+    background-color: #023965;
+    color:white;
+    width: 30%;
+    border-radius: 5px;
+    font-family: 'Lexend Exa', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    margin-top:2rem;
+    margin-bottom: 2rem;
+
+
+}
+.image{
+    width: 100%;
+}
+
+.card-body > p{
+    padding: 1rem;
+
+
+}
+.card-title > h1 {
+
+    text-align: center;
+
+}
+.btn{
+
+    background-color: #212121;
+    color:white;
+    padding: 0.8rem;
+    width: 100%;
+    border:none;
+}
